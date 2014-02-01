@@ -1,0 +1,39 @@
+<?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+<id>tag:blogger.com,1999:blog-889552403956114385</id>
+<updated>2013-08-31T11:38:10.825-07:00</updated>
+<title type="text">Test Blog</title>
+<subtitle type="html"/>
+<link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/posts/default"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/"/>
+<link rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+<author>
+<name>Andrew Tremblay</name>
+<email>noreply@blogger.com</email>
+<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
+</author>
+<generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
+<openSearch:totalResults>1</openSearch:totalResults>
+<openSearch:startIndex>1</openSearch:startIndex>
+<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+<entry>
+<id>tag:blogger.com,1999:blog-889552403956114385.post-7135288539467101371</id>
+<published>2013-08-31T11:38:00.000-07:00</published>
+<updated>2013-08-31T11:38:10.889-07:00</updated>
+<title type="text">Test</title>
+<content type="html">This is a test because I want to see something.</content>
+<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/7135288539467101371/comments/default" title="Post Comments"/>
+<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2013/08/test.html#comment-form" title="0 Comments"/>
+<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/7135288539467101371"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/7135288539467101371"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2013/08/test.html" title="Test"/>
+<author>
+<name>Andrew Tremblay</name>
+<uri>https://plus.google.com/101315563960148958557</uri>
+<email>noreply@blogger.com</email>
+<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
+</author>
+<thr:total>0</thr:total>
+</entry>
+</feed>
