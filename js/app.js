@@ -20,7 +20,7 @@ $(document).ready(function(){
 			html += "";
 			
 			//append html to the container of yor choice
-			$(".blog").append(html);
+			$(".blog").html(html);
 		}).error(function() {
 			// Just do nothing
 	});
