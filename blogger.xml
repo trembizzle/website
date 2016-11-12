@@ -1,9 +1,15 @@
 <?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
 <id>tag:blogger.com,1999:blog-889552403956114385</id>
-<updated>2013-08-31T11:38:10.825-07:00</updated>
-<title type="text">Test Blog</title>
-<subtitle type="html"/>
+<updated>2014-03-31T19:30:08.591-07:00</updated>
+<category term="Analytics"/>
+<category term="Personal"/>
+<category term="Content"/>
+<category term="Craft Beer Companion"/>
+<category term="Performance"/>
+<category term="User Experience"/>
+<title type="text">Let's Fix the Web</title>
+<subtitle type="html">My own thoughts of what might help you with your website needs, either in terms of content, design or development.</subtitle>
 <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/posts/default"/>
 <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default"/>
 <link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/"/>
@@ -14,20 +20,142 @@
 <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
 </author>
 <generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
-<openSearch:totalResults>1</openSearch:totalResults>
+<openSearch:totalResults>7</openSearch:totalResults>
 <openSearch:startIndex>1</openSearch:startIndex>
 <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
 <entry>
-<id>tag:blogger.com,1999:blog-889552403956114385.post-7135288539467101371</id>
-<published>2013-08-31T11:38:00.000-07:00</published>
-<updated>2013-08-31T11:38:10.889-07:00</updated>
-<title type="text">Test</title>
-<content type="html">This is a test because I want to see something.</content>
-<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/7135288539467101371/comments/default" title="Post Comments"/>
-<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2013/08/test.html#comment-form" title="0 Comments"/>
-<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/7135288539467101371"/>
-<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/7135288539467101371"/>
-<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2013/08/test.html" title="Test"/>
+<id>tag:blogger.com,1999:blog-889552403956114385.post-4542682789395201366</id>
+<published>2014-03-31T19:29:00.002-07:00</published>
+<updated>2014-03-31T19:30:08.603-07:00</updated>
+<category scheme="http://www.blogger.com/atom/ns#" term="Craft Beer Companion"/>
+<title type="text">Craft Beer Companion: An Exciting New Project</title>
+<content type="html">I finally have something very exciting to talk about that I hope you will enjoy, or at least help support!&lt;br />&lt;br />For the past month, my friend Mike Taylor and I have been working away diligently on a fun and technically exciting application. The funny story behind it is that it came up while drinking beer.&lt;br />&lt;br />At the beginning of March, we conceived an idea that may not have been tackled yet, which is the concept of providing a guide towards this emerging trend, at least here in Western Canada, of craft beer. Unlike the staples of commercial beer, there is this whole other world that, much like wine, provide a much greater experience than just drinking.&lt;br />&lt;br />What came up out of our initial design was when we were having a few craft beer and figuring out which craft beer should be poured into which glass which does affect not only the taste, but also the presentation and aroma that a normal pint or mug may not always deliver.&lt;br />&lt;br />Out of this came both a website&amp;nbsp;&lt;a href="http://craftbeercompanion.com/">craftbeercompanion.com&lt;/a>, and an &lt;a href="https://play.google.com/store/apps/details?id=crafbeercompanion.cbc.volume1" target="_blank">Android app&lt;/a>. Crafting this on the side, we figured we would give this a try as we found no real guide out there for people that are just looking to get into craft beer, or already are but need a quick and handy reference. I'll look to be making more posts in the near future to talk about some of the technologies behind what we used, and the experiences we've encountered both on the technical and marketing end. Our short-term goal is to at least make enough money to cover what we've put into this, and some beer money. The long-term is hopefully expanding this out into other areas and making more beer money :).</content>
+<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/4542682789395201366/comments/default" title="Post Comments"/>
+<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2014/03/exciting-new-project.html#comment-form" title="0 Comments"/>
+<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/4542682789395201366"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/4542682789395201366"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2014/03/exciting-new-project.html" title="Craft Beer Companion: An Exciting New Project"/>
+<author>
+<name>Andrew Tremblay</name>
+<uri>https://plus.google.com/101315563960148958557</uri>
+<email>noreply@blogger.com</email>
+<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
+</author>
+<thr:total>0</thr:total>
+</entry>
+<entry>
+<id>tag:blogger.com,1999:blog-889552403956114385.post-5258227460610341309</id>
+<published>2013-10-17T18:29:00.001-07:00</published>
+<updated>2013-10-17T18:29:49.182-07:00</updated>
+<category scheme="http://www.blogger.com/atom/ns#" term="Personal"/>
+<title type="text">Work Update!</title>
+<content type="html">I've been meaning to write some new blog entries, but I've been busy. Mainly due to the fact that I will now have a new job in November. Come next week I will no longer be with the University and be working with Vendasta in Saskatoon. My mind has been all over the place this week, and hopefully I will get back to writing another post in the future.</content>
+<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/5258227460610341309/comments/default" title="Post Comments"/>
+<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2013/10/work-update.html#comment-form" title="0 Comments"/>
+<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/5258227460610341309"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/5258227460610341309"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2013/10/work-update.html" title="Work Update!"/>
+<author>
+<name>Andrew Tremblay</name>
+<uri>https://plus.google.com/101315563960148958557</uri>
+<email>noreply@blogger.com</email>
+<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
+</author>
+<thr:total>0</thr:total>
+</entry>
+<entry>
+<id>tag:blogger.com,1999:blog-889552403956114385.post-3833056798579157517</id>
+<published>2013-10-01T19:04:00.000-07:00</published>
+<updated>2013-10-01T19:04:20.116-07:00</updated>
+<category scheme="http://www.blogger.com/atom/ns#" term="Performance"/>
+<category scheme="http://www.blogger.com/atom/ns#" term="User Experience"/>
+<title type="text">Speed is the Key</title>
+<content type="html">So, you have a website up. You've put a lot of work into the design with high resolution images and it loads instantaneously for you from your computer. Fantastic. Now you release it to the wild, and then you start to notice (if you're tracking with some form of web analytics) and notice a high bounce rate. You delve deeper into this and come up with the issue, high load times.&lt;br />&lt;br />But things loaded fine on your machine.&lt;br />&lt;br />That's the issue. The environment you've created for yourself is not the same as how someone else will experience your site. They may have as fast of a connection as you do, or they might be on their mobile device with slow service, waiting for your page to load before deciding it's not worth their time. This is a user experience issue. Despite having come up with a brilliant navigation system, your site is accessible to people of all abilities, and it is rich in design, one key piece that can sometimes easily be missed is being as efficient as possible in delivering the website to your visitors.&lt;br />&lt;br />There are a few pieces that can be done to help improve the performance of your site without delving too deep into your web server. Some key pieces you can do are:&lt;br />&lt;br />&lt;ul>&lt;li>&lt;b>Reduce the quality and size of your images. &lt;/b>It is nice that you have a fantastic photo to show, but unless your visitor has chosen that they want to view the 1MB file, you can get away with reducing the size of your image, and the quality it is. Images are one of the biggest factors in a slow site. jpg is also the choice to get the smallest size of image that is still viewable on the web.&lt;/li>&lt;li>&lt;b>Compress your stylesheets and scripts.&lt;/b>&amp;nbsp;This one can be a real quick win to get a little space saved. Because of whitespace in both of these files, due to formatting, the size can be fairly large. This can be reduced through tools such as CSS Minifer:&amp;nbsp;&lt;a href="http://cssminifier.com/">http://cssminifier.com/&lt;/a>, where you can plug in your current code, and get a stripped down version which you can use and it will still run the same.&lt;/li>&lt;li>&lt;b>Place your scripts at the end.&lt;/b>&amp;nbsp;Now, assuming you have not put javascript into your html structure, this can be fairly simple. The reason to place this at the bottom is so that the browser can right away start analyzing the structure and rendering the page from the CSS before going and looking at the scripts. This really becomes apparent when you are loading external scripts, because if these scripts are loaded before the html, the browser has to stop and load the script first before continuing on, which gives the false impression that the site is slow to load.&lt;/li>&lt;li>&lt;b>Cache where you can. &lt;/b>If you load any external items on your page, such as a feed from a social media site, you should look into caching this content for each user. If the feed hardly changes, you can look to cache the content so that you don't have the browser making a request to get the latest feed every time.&lt;/li>&lt;li>&lt;b>Spriting images.&lt;/b>&amp;nbsp;Generally, when we use images in our CSS, we end up referencing an image to use as a background or a display item of some sort. Depending on how the CSS is set up, each time we reference a new image is a request that has to be made. How spriting works is you include all the images you require by the CSS, and have it all be generated in one single image file. This means now that there is just one request, helping with the performance of your site.&lt;/li>&lt;li>&lt;b>Use speed testing tools.&lt;/b>&amp;nbsp;A great tool out there that you can use right now is PageSpeed, a plugin in the Chrome browser. This tool will analyze your current page and give you recommendations on where you can make improvements to your site.&lt;/li>&lt;/ul>&lt;div>This is of course just the tip of the iceberg of what can be done, but should give you some ideas of where you can go with this.&lt;/div></content>
+<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/3833056798579157517/comments/default" title="Post Comments"/>
+<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2013/10/speed-is-key.html#comment-form" title="0 Comments"/>
+<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/3833056798579157517"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/3833056798579157517"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2013/10/speed-is-key.html" title="Speed is the Key"/>
+<author>
+<name>Andrew Tremblay</name>
+<uri>https://plus.google.com/101315563960148958557</uri>
+<email>noreply@blogger.com</email>
+<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
+</author>
+<thr:total>0</thr:total>
+</entry>
+<entry>
+<id>tag:blogger.com,1999:blog-889552403956114385.post-2592669675945211013</id>
+<published>2013-09-17T17:34:00.001-07:00</published>
+<updated>2013-09-17T17:34:08.746-07:00</updated>
+<category scheme="http://www.blogger.com/atom/ns#" term="Content"/>
+<title type="text">Building Proper Content For the Future</title>
+<content type="html">From experience, this is the one thing that appears to always be missed during a "redesign" of a website, and that is thinking how to structure content for future use.&lt;br />&lt;br />From experience, generally the reason we redesign websites is because the "look and feel" has gotten old, or we need to update to match the visuals and use the newest technologies. What we end up doing if we're lazy is cutting and pasting the old content into the new website or if we're lucky we at least do a content audit and remove old content and update existing. What generally doesn't happen is thinking about how to structure the content so that regardless of whatever new technology comes out, whatever new branding or look and feel comes out, we have the base content that can be plugged in anywhere. What we generally have instead is just bad content structuring.&lt;br />&lt;br />Now, what defines bad content structuring? Any content on a webpage that is not separated away from html code. Content nestled within headers, bolding, lists and random images inserted wherever. If you're dealing with a content management system, this most likely arises due to the big old empty space that is the WYSIWYG for users to put there content in. Content management systems has finally released the reins around websites away from the IT people, and into staff that know what their content is. However, both groups did not do their due diligence in preparing for the future. In many cases, the IT people will have created the framework that goes around the content, but due to demands from clients wanting to put tables where they want, pictures where they see fit, and other random atrocities, IT people just gave them an empty text editor. Content people are also equal to blame as to not think about how their content might be display and used in the future, and having all the content in one giant blob of mess will not provide any value down the road. Also note, what the visitor actually wants isn't part of the equation, especially the fact that perhaps they don't really care about your random stock photo.  &lt;br />&lt;br />So, what's so special about structuring content? Why should we treat content so special?  &lt;br />Simply because it's the reason you have a website in the first place. You can't have a website without content. Structured content takes it a step further in preparing for the unforeseen future. Think back when content only existed on a personal computer. Now we are more and more accessing content on our mobile phones, and who knows what next, maybe your fridge? Structured content helps you remove content from any presentation, allowing any future redesign to worry just about the visuals and allow you to easily port over content.&lt;br />&lt;br />Now how does one structure content? By thinking about your content in parts. Take for example a standard news item, which may look like  &lt;br />&lt;pre>{Main picture of story}&lt;br />&lt;br />Tragedy in Saskatoon&lt;br />&lt;br />Saskatoon, SK - There was something that happened. We don't know&lt;br />&lt;br />{Place for photo gallery}&lt;br />&lt;br />{Place for comments}&lt;br />&lt;br />&lt;/pre>&lt;br />Now looking at this piece, we can easily break out the content as such:  &lt;br />&lt;br />&lt;br />&lt;ul>&lt;li>Main image (with different sizes so that it can be consumed by whomever wants to consume it)&lt;/li>&lt;li>Title&lt;/li>&lt;li>Location&lt;/li>&lt;li>Body (This is fine to be an open text box, as long as styling is removed. Links are also fine in this context)&lt;/li>&lt;li>Photo Gallery&lt;/li>&lt;/ul>&lt;br />&lt;br />With this, we could also add fields such as teaser tag, both in long and short varities. This way, we now have content that is separated out and we can plug this into anywhere we want, and it is not reliant on the website that it currently is in. This way you are prepared for the future, and while it may take more time to enter content now, you save yourself or whomever is handling the website down the road all the time in the world.</content>
+<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/2592669675945211013/comments/default" title="Post Comments"/>
+<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2013/09/building-proper-content-for-future.html#comment-form" title="0 Comments"/>
+<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/2592669675945211013"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/2592669675945211013"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2013/09/building-proper-content-for-future.html" title="Building Proper Content For the Future"/>
+<author>
+<name>Andrew Tremblay</name>
+<uri>https://plus.google.com/101315563960148958557</uri>
+<email>noreply@blogger.com</email>
+<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
+</author>
+<thr:total>0</thr:total>
+</entry>
+<entry>
+<id>tag:blogger.com,1999:blog-889552403956114385.post-8146664571303957843</id>
+<published>2013-09-09T11:34:00.000-07:00</published>
+<updated>2013-09-11T14:11:14.872-07:00</updated>
+<category scheme="http://www.blogger.com/atom/ns#" term="Analytics"/>
+<title type="text">Track Everything!</title>
+<content type="html">In this post, I`m going to get into a more detailed portion to help enhance your tracking within Google Analytics. For those unfamiliar with &lt;a href="http://www.google.com/analytics" rel="nofollow" target="_blank">Google Analytics&lt;/a>, it`s a great free web traffic tracking tool. If you don`t have any web traffic tracking tools, I suggest starting with this. &lt;br />Now, for those that are familiar with Google Analytics, one piece that may have come up (or may not), is how much of a scope Google Analytics is able to track. We can see which pages are accessed, what pages they left, and what pages they accessed next as long as it`s on the same site. However, what if your page has links to external pages outside of your domain? What about actions such as clicking on a button to view a video? As you are already aware, the only knowledge we have of those actions in Google Analytics are assumptions made on seeing the exit and bounce rates.&lt;br />&lt;br />There is a way to do this however!&lt;br />&lt;br />The functionality that we are going to use to our advantage is &lt;a href="https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide" rel="nofollow" target="_blank">Event Tracking&lt;/a>. Here we are utilizing the API of Google Analytics to store items that we identify as also important usage of our page...because it is! Why wouldn't we want to know more about how our website is actually being used?&lt;br />&lt;br />So, assuming you have already read about Event Tracking (or &lt;a href="https://developers.google.com/analytics/devguides/" rel="nofollow" target="_blank">how to utilize javascript to make Google Analytics calls&lt;/a>), and are familiar with &lt;a href="http://jquery.com/" rel="nofollow" target="_blank">jQuery&lt;/a>, let's tackle tracking external links. Now, we can do it this way first, however due to placing inline javascript calls within a link, it is not the optimal method. Just a note that I am also using the most up to date &lt;a href="https://support.google.com/analytics/answer/2790010?hl=en" rel="nofollow" target="_blank">Google Analytics Universal Analytics&lt;/a>:&lt;br />&lt;br />&lt;pre>&amp;lt;a title="Click Here" target="_blank" href="http://www.somelink.com" onclick="ga('send', 'event', 'external-link', 'click', 'http://www.somelink.com');"&amp;gt;Click Here&amp;lt;/a&amp;gt;&lt;br />&lt;br />&lt;/pre>This is not terrible however if we want to have a proper setup, we would want to separate out javascript interactions from the HTML structure. The next example here is a much handier way to do this with classes. If you have the control, you can tag any external links in your code such as:&lt;br />&lt;br />&lt;pre>&amp;lt;a title="Click Here" target="_blank" href="http://www.somelink.com" class="external-link"&amp;gt;Click Here&amp;lt;/a&amp;gt;&lt;br />&lt;br />&lt;/pre>&lt;br />All it takes is some jQuery below to automatically to through and create events on every one. This should be placed within your document ready function:&lt;br />&lt;br />&lt;pre>$(".external-link").click(function(event){&lt;br />&lt;br />&lt;span class="Apple-tab-span" style="white-space: pre;"> &lt;/span>// Track event as external link&lt;br />&lt;span class="Apple-tab-span" style="white-space: pre;"> &lt;/span>ga('send', 'event', 'external-link', 'click', $(this).attr('href'));&lt;br />&lt;br />});&lt;br />&lt;br />&lt;/pre>If you aren't using Universal Analytics, this is what the previous call was:&lt;br />&lt;br />&lt;pre>$(".external-link").click(function(event){&lt;br />&lt;br />&lt;span class="Apple-tab-span"> &lt;/span>// Track event as external link&lt;/pre>&lt;pre> _gaq.push(['_trackEvent', 'external-link', 'click', $(this).attr('href')]);&lt;/pre>&lt;pre>});&lt;/pre>&lt;br />So, we now have created an event taxonomy with the category being external-link, action being click, the label being the title on the link. As you can now see, it doesn't take much to also apply this to button presses, tab presses or any other interactions you might also want to track. This additional tracking now opens the world of seeing how your visitors are using your website and gets you closer to properly evaluating these behaviours.&lt;br />&lt;br /></content>
+<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/8146664571303957843/comments/default" title="Post Comments"/>
+<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2013/09/track-everything.html#comment-form" title="0 Comments"/>
+<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/8146664571303957843"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/8146664571303957843"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2013/09/track-everything.html" title="Track Everything!"/>
+<author>
+<name>Andrew Tremblay</name>
+<uri>https://plus.google.com/101315563960148958557</uri>
+<email>noreply@blogger.com</email>
+<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
+</author>
+<thr:total>0</thr:total>
+</entry>
+<entry>
+<id>tag:blogger.com,1999:blog-889552403956114385.post-3758096653800462857</id>
+<published>2013-09-05T20:40:00.000-07:00</published>
+<updated>2013-09-05T20:43:37.487-07:00</updated>
+<category scheme="http://www.blogger.com/atom/ns#" term="Analytics"/>
+<title type="text">Why Aren`t You Tracking Your Visitors?</title>
+<content type="html">So you have a website. Great. Now can you tell me how it's being used?&lt;br />&lt;br />If the answer is no, then don't sweat. At least you're aware of your predicament. In most cases, people have a website that needs to be updated every now and again, but as far as monitoring if anyone's actually visiting it they don't have those numbers. Now why would you not want to know this, especially since someone, possibly you, is paying for it? If you're in an organization, how can you be accountable if you don't have a measurement of visitors on the website you are supporting?&lt;br />&lt;br />Well, if you don't have anything to report on, it's perhaps time to start looking into &lt;a href="http://en.wikipedia.org/wiki/Web_analytics" rel="nofollow" target="_blank">web analytics&lt;/a>. Web analytics is the measurement, collection, analysis and reporting of internet data for purposes of understanding and optimizing web usage. It sounds a bit overwhelming, but it can be as complicated as you want to take it. Yes, that is straight from Wikipedia.&lt;br />&lt;br />In the past, the earliest web analytic tools that wasn't usage information only generated by an IT person was the good old site counters. Obviously the higher the count went meant people were using your website, and it must have been super popular! However, the early days of web surfing has been coming to an end with the advent of proper search engines, and we are finding more and more visitors are looking to accomplish tasks online. With web analytics, we can actually track this activity and show whether or not a website is actually helping a visitor accomplish their task. It can also help trim the fat off your website which you may have never known.&lt;br />&lt;br />There are a variety of different web analytic tools out there, however to start out the one I would recommend is the most robust free service out there, &lt;a href="http://www.google.com/analytics" rel="nofollow" target="_blank">Google Analytics&lt;/a>. Even if you only start with the real basic information, Google Analytics provides a great summary to start from while allowing you to get more complex if you choose. From a very basic level, you can at least view how many visitors you have, where they are coming from, and what pages they are viewing. Even if you aren`t going to look at the data for a while, the best thing is that tracking will happen regardless, allowing you to go back and view your data over time to help in your decision making as you evolve your website.&lt;br />&lt;br />With a free tool monitoring your traffic, it`s very hard to argue why you aren`t tracking.&lt;br />&lt;br />If you like to know much more about Google Analytics, I will most likely be posting more advanced posts in the near future.</content>
+<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/3758096653800462857/comments/default" title="Post Comments"/>
+<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2013/09/why-arent-you-tracking-your-visitors.html#comment-form" title="0 Comments"/>
+<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/3758096653800462857"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/3758096653800462857"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2013/09/why-arent-you-tracking-your-visitors.html" title="Why Aren`t You Tracking Your Visitors?"/>
+<author>
+<name>Andrew Tremblay</name>
+<uri>https://plus.google.com/101315563960148958557</uri>
+<email>noreply@blogger.com</email>
+<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh3.googleusercontent.com/-IbhgOJEPuJw/AAAAAAAAAAI/AAAAAAAAADc/XyewfCbdlp0/s512-c/photo.jpg"/>
+</author>
+<thr:total>0</thr:total>
+</entry>
+<entry>
+<id>tag:blogger.com,1999:blog-889552403956114385.post-6260615827813026335</id>
+<published>2013-09-05T20:35:00.001-07:00</published>
+<updated>2013-09-05T20:41:39.460-07:00</updated>
+<category scheme="http://www.blogger.com/atom/ns#" term="Personal"/>
+<title type="text">Opening Post</title>
+<content type="html">&lt;span style="font-family: inherit;">Hi! &lt;/span>&lt;br />&lt;span style="font-family: inherit;">&lt;br />&lt;/span>&lt;span style="font-family: inherit;">Why am I starting a blog? And why am I just talking about websites?&lt;/span>&lt;br />&lt;span style="font-family: inherit;">&lt;br />&lt;/span>&lt;span style="font-family: inherit;">Truthfully, I don't know exactly why, but I felt like now is as good of time as any to start putting down my comments on where the web is today and where it appears to be heading. I'm hoping whomever is reading this ends up taking away something that they didn't already know and use it in their own websites.&lt;/span>&lt;br />&lt;span style="font-family: inherit;">&lt;br />&lt;/span>&lt;span style="font-family: inherit;">Gone are the days of the sole IT person controlling everything about the website. Now we have the tools to build really powerful interfaces on a platform designs to be consumed from anywhere at anytime on any device. We aren't constrained with treating the web as a replication of print advertisements anymore.&lt;/span>&lt;br />&lt;span style="font-family: inherit;">&lt;br />&lt;/span>&lt;span style="font-family: inherit;">If I can spur one person with a post, then I'm satisfied. If not, at least this is somewhat of a diary that I can look back on later and see how far the area that I work in has changed.&lt;/span></content>
+<link rel="replies" type="application/atom+xml" href="http://trembizzle.blogspot.com/feeds/6260615827813026335/comments/default" title="Post Comments"/>
+<link rel="replies" type="text/html" href="http://trembizzle.blogspot.com/2013/09/opening-post.html#comment-form" title="0 Comments"/>
+<link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/6260615827813026335"/>
+<link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/889552403956114385/posts/default/6260615827813026335"/>
+<link rel="alternate" type="text/html" href="http://trembizzle.blogspot.com/2013/09/opening-post.html" title="Opening Post"/>
 <author>
 <name>Andrew Tremblay</name>
 <uri>https://plus.google.com/101315563960148958557</uri>

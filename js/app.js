@@ -16,7 +16,7 @@ $(document).ready(function(){
 
 			//create your own html
 			html += "<h3>" + title + "</h3>";
-			html += content;
+			html += '<p>' + content + '</p>';
 			html += "";
 			
 			//append html to the container of yor choice
